@@ -1,2 +1,4 @@
-# checker_game
-Chercker Game AI
+# checker_game with AI
+
+## Benchmark
+src/benchmark_ai.py
